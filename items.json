@@ -1,6 +1,5 @@
 {
-    "quiz": {
-        "items": [
+    "quiz": [
             "sport": {
                 "q1": {
                     "BasketballInfo": "BasketBall Teams"
@@ -38,5 +37,4 @@
                 }
             }
         ]
-    }
 }
